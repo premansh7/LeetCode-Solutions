@@ -10,6 +10,7 @@ Practice
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/premansh7/LeetCode-Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/premansh7/LeetCode-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
