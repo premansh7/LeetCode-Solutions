@@ -6,6 +6,7 @@ Practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/premansh7/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/premansh7/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/premansh7/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/premansh7/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/premansh7/LeetCode-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -39,4 +40,8 @@ Practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/premansh7/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/premansh7/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
