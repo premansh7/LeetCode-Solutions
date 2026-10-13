@@ -9,6 +9,7 @@ Practice
 | [0026-remove-duplicates-from-sorted-array](https://github.com/premansh7/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/premansh7/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/premansh7/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [1929-concatenation-of-array](https://github.com/premansh7/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/premansh7/LeetCode-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Math
 |  |
@@ -64,4 +65,5 @@ Practice
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/premansh7/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [1929-concatenation-of-array](https://github.com/premansh7/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
